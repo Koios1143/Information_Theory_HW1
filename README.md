@@ -161,3 +161,13 @@ $$
 $$
 
 Also by the result we can see a $43.96\%$ compress rate.
+
+# Problem 2
+
+Ploblem 2 is about Shannon's Second Theorem (Noisy-channel coding theorem).
+
+To see the result, simply run the following command
+
+```bash
+python problem2.py
+```
